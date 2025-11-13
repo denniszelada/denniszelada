@@ -12,19 +12,19 @@
 
 ## 👨‍💻 About Me
 
-I'm an **engineering leader** with 8+ years of experience scaling teams from 8 to 150+ engineers as **CTO, VP Engineering, and Engineering Director** at high-growth startups across **e-commerce, SaaS, fintech, and AI/ML** domains.
+I'm an **engineering leader** with 12+ years of experience scaling teams from 8 to 150+ engineers as **CTO, VP Engineering, and Engineering Director** at high-growth startups across **e-commerce, SaaS, fintech, and AI/ML** domains.
 
 I specialize in:
 - 🚀 **Scaling engineering teams** from 8→50+ engineers while maintaining 90% retention
 - 🏗️ **Building resilient, scalable architectures** processing 1M+ transactions per minute
-- 🎯 **Strategic + hands-on leadership** (75% coding, 25% management)
+- 🎯 **Strategic + hands-on leadership**
 - 🌍 **Multi-market operations** across Europe, North America, and Latin America
-- 🤖 **AI/ML integration** with LLMs (Claude, OpenAI), building intelligent automation platforms
+- 🤖 **AI/ML** integration with LLMs (Claude, OpenAI), building proprietary algorithms
 - 💡 **High-ownership cultures** through structured programs like "Manager School"
 
-**Currently:** Lead Engineer at Truemetrics (Berlin), building AI-powered geospatial optimization systems
+**Currently:** AI Contractor, building AI-powered geospatial optimization systems
 
-**Previously:** CTO at Wishpond Technologies, Flowmate, Delta Technologies | VP Engineering at WiseBuffet/Creatrix
+**Previously:** CTO at Wishpond Technologies, Flowmate, Delta Technologies, and WiseBuffet/Creatrix
 
 ---
 
@@ -55,7 +55,7 @@ I specialize in:
 - **IaC:** Terraform, Ansible, CloudFormation
 
 ### **AI/ML & Data**
-- **LLM Integration:** Claude, OpenAI (GPT-4), multi-agent systems, prompt engineering
+- **LLM Integration:** Claude, OpenAI, multi-agent systems, prompt engineering
 - **ML Frameworks:** PyTorch, scikit-learn, TensorFlow
 - **AI Applications:** Intelligent automation, conversation AI, predictive analytics
 - **Data Pipelines:** ETL workflows, data engineering, analytics platforms
@@ -77,7 +77,7 @@ I specialize in:
 
 ### **🏗️ Technical Achievements**
 - Architected systems processing **1M+ email transactions per minute** at scale
-- Built **Golang microservices** with gRPC handling thousands of requests/second
+- Built **Golang microservices** with gRPC, handling thousands of requests/second
 - Optimized **PostgreSQL** databases reducing costs 60% (~$40K/month savings)
 - Achieved **99.99% uptime** across multiple production systems
 - Improved system performance by **40%** (stability, latency, costs) through architectural optimization
@@ -86,18 +86,18 @@ I specialize in:
 - Built **multi-agent LLM frameworks** for automated API integration and monitoring
 - Developed **AI-powered marketing automation** products (SalesCloser.ai, Wishpond AI)
 - Integrated **LLM-based conversation intelligence** for real-time CRM automation
-- Created ML data pipelines training models on millions of transactions
+- Created ML data pipelines, training models on millions of transactions
 
 ### **🌍 Multi-Market & E-commerce**
 - Operated across **8+ countries** in Europe, North America, and Latin America
-- Built **Shopify integrations** for abandoned cart recovery driving 12-18% conversion rates
+- Built **Shopify integrations** for abandoned cart recovery, driving 12-18% conversion rates
 - Developed **marketplace platforms** connecting merchants with ecommerce ecosystems
-- Partnered with regional GMs solving market-specific challenges (payments, regulations, UX)
+- Partnered with regional GMs, solving market-specific challenges (payments, regulations, UX)
 
 ### **💰 Business Impact**
 - Reduced infrastructure costs from **$100K/month** while scaling 3x at Wishpond
 - Saved **$480K annually** through MongoDB optimization at Delta Technologies
-- Generated measurable ROI: merchants recovered **$8 for every $1 spent** on platform
+- Generated measurable ROI: merchants recovered **$8 for every $1 spent** on the platform
 - Supported products serving **20,000+ businesses** and millions of end users
 
 ---
@@ -107,7 +107,7 @@ I specialize in:
 - **Stanford University** – Graduate School of Business (Ignite Program for Entrepreneurs)
 - **Udacity** – Nanodegree in Machine Learning
 - **Bertelsmann Technology Program** – Intel Edge AI Foundation
-- **Universidad Mariano Gálvez** – MSc in Computer Science (AI & Distributed Systems)
+- **Universidad Mariano Gálvez** – MSc in Computer Science
 
 ---
 
@@ -182,15 +182,10 @@ I'm currently exploring **CTO, VP Engineering, and Director of Engineering roles
 ### **🚀 Truemetrics** (Current - Lead Engineer)
 Building AI-powered geospatial optimization platform using TypeScript, Python, AWS, and GCP. Leading mobile SDK development (iOS & Android) and improving system performance by 40%.
 
-**Tech:** TypeScript · Python · AWS · GCP · Kubernetes · Mobile SDKs
-
-### **💼 Wishpond Technologies** (CTO/CPO)
-Scaled engineering 8→50+ engineers. Built e-commerce marketing automation platform processing 1M+ transactions/minute. Created SalesCloser.ai (video AI sales agent) and Shopify abandoned cart recovery system.
-
-**Tech:** TypeScript · Node.js · React · PostgreSQL · AWS · Golang · LLMs
+**Tech:** TypeScript · Python · AWS · Mobile SDKs
 
 ### **🤖 Flowmate** (Co-founder & CTO)
-Built enterprise AI automation platform from zero. Multi-agent LLM systems for API integration. GCP infrastructure with Kubernetes achieving 99.99% uptime.
+Built an enterprise AI automation platform from zero. Multi-agent LLM systems for API integration. GCP infrastructure with Kubernetes is achieving 99.99% uptime.
 
 **Tech:** TypeScript · NestJS · React · GCP · Kubernetes · LLMs (Claude, OpenAI)
 
@@ -199,8 +194,13 @@ Universal API integration platform using Golang microservices with gRPC. Multi-a
 
 **Tech:** Golang · gRPC · TypeScript · PostgreSQL · GCP · LLMs
 
+### **💼 Wishpond Technologies** (CTO/CPO)
+Scaled engineering 8→50+ engineers. Built an e-commerce marketing automation platform processing 1M+ transactions/minute. Created SalesCloser.ai (video AI sales agent) and Shopify abandoned cart recovery system.
+
+**Tech:** TypeScript · Node.js · React · PostgreSQL · AWS · Golang · LLMs
+
 ### **🏦 WiseBuffet/Creatrix** (CTO)
-Led 150+ engineers across 12 time zones. Built consumer mobile apps for parking/payments serving millions of users. Multi-market operations across Latin America, North America, and Europe.
+Led 150+ engineers across 12 time zones. Built consumer mobile apps for parking/payments, serving millions of users. Multi-market operations across Latin America, North America, and Europe.
 
 **Tech:** Node.js · React Native · PostgreSQL · AWS · Multi-region architecture
 
@@ -233,10 +233,6 @@ When I'm not scaling engineering teams or building systems, you'll find me:
 > "Great engineering leadership isn't about being the smartest person in the room—it's about hiring people smarter than you, creating conditions where they thrive, and making strategic technical decisions that drive business outcomes. Small autonomous teams, high ownership culture, and staying close to the code while providing strategic vision: that's my approach."
 
 ---
-
-## 🔍 SEO Keywords
-
-**For recruiters and hiring managers:**
 
 CTO Berlin · Chief Technology Officer Germany · VP Engineering Berlin · Engineering Director · Head of Engineering · Technical Leadership · Startup CTO · Scale-up Engineering Leader · TypeScript Expert · Golang Developer · React Specialist · Next.js · Node.js · PostgreSQL · AWS · GCP · Kubernetes · Engineering Team Scaling · Tech Leadership Berlin · Remote CTO · SaaS CTO · E-commerce Engineering · Marketplace Technology · AI Integration · LLM Engineering · Multi-Agent Systems · Engineering Culture · High-Ownership Teams · Manager Training · DORA Metrics · Microservices Architecture · Distributed Systems · API Design · Cloud Native · DevOps Leadership · Engineering Operations · Product Engineering · Full-Stack Leadership · Technical Strategy · Engineering Excellence · Team Building · Hiring A-Players · Performance Optimization · Cost Reduction · 99.99% Uptime · Shopify Integration · Marketing Automation · Climate Tech · Sustainability · Circular Economy · Mission-Driven Engineering
 
