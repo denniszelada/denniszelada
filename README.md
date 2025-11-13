@@ -4,8 +4,7 @@
 
 🌍 Based in Berlin, Germany | 🚀 Open to CTO, VP Engineering, and Director roles | 💼 10+ years scaling engineering organizations
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-denniszelada%40gmail.com-red?style=flat&logo=gmail)](mailto:denniszelada@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/denniszelada)
 [![Location](https://img.shields.io/badge/Location-Berlin%2C%20Germany-green?style=flat&logo=google-maps)](https://www.google.com/maps/place/Berlin)
 
 ---
@@ -106,8 +105,7 @@ I specialize in:
 
 I'm always interested in connecting with fellow engineering leaders, founders, and companies working on meaningful problems. Whether you're looking for technical leadership, want to discuss engineering best practices, or have an exciting opportunity—let's talk!
 
-**📧 Email:** [denniszelada@gmail.com](mailto:denniszelada@gmail.com)  
-**💼 LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
+**💼 LinkedIn:** [linkedin.com/in/denniszelada](https://linkedin.com/in/denniszelada)  
 **📍 Location:** Berlin, Germany  
 **🌐 Open to:** Remote (Europe/US time zones), Berlin-based, or hybrid arrangements
 
